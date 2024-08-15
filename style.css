@@ -4,15 +4,15 @@ body {
   font-family: Roboto, sans-serif;
   margin: 20%;
   font-weight: bold; 
+border: 20px solid blue;
+padding: 20px;
 
 }
 head{
     text-underline-position: below
     }
 
-h1 {
-  text-decoration: underline; /* Added text-decoration to underline */
-  text-underline-position: below; /* This is optional but kept for your requirement */
+
 }
 
 p {
